@@ -11,7 +11,7 @@ import os
 #it is needed by OpenCV face recognizers
 import numpy as np
 
-subjects = ["", "Resa Renaldy", "Elvis Presley"]
+subjects = ["", "Resa Renaldy", "Vincentius Garry"]
 
 def detect_face(img):
     #convert the test image to gray image as opencv face detector expects gray images
